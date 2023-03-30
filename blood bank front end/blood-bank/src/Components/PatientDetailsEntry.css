@@ -1,0 +1,25 @@
+.login-overall{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    width:50%;
+    height:350px;
+    border: 2px solid black;
+    padding: auto;
+}
+
+.alert{
+    text-align:center;
+}
+.parent-patient-details-entry{
+    display: flex;
+    justify-content: center;
+    margin-top: 0%;
+}
+
+.back-button-patient-check{
+    margin-top:2%;
+  margin-bottom: 0%;
+  margin-left:5%;
+  margin-bottom:0px;
+}

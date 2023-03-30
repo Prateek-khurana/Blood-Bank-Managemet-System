@@ -1,0 +1,25 @@
+.card-handler {
+    display: flex;
+    justify-content:space-around;
+    margin-top: 5%;
+}
+
+.image-handler {
+    margin: 2%;
+    border: 2px solid black;
+}
+.footer-handler{
+    margin-top:2%;
+}
+
+.card {
+    border: 2px solid black;
+}
+
+.welcome-cards-align{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    flex-direction:column;
+    text-align:center;
+}

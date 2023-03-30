@@ -1,0 +1,9 @@
+.card-overall{
+    /* border: 2px solid rgb(255, 255, 255); */
+   /* box-shadow: 2px 2px 2px 2px rgb(212, 209, 209); */
+   border: 2.5px solid rgb(139, 136, 136);
+   border-radius: 10px;
+   margin-bottom: 2%;
+   height: auto;
+   
+}

@@ -1,0 +1,7 @@
+.register-card-overall{
+    border: 2.5px solid rgb(139, 136, 136);
+    border-radius: 10px;
+    margin-bottom: 2%;
+    height: 350px;
+    width: 200px;
+}

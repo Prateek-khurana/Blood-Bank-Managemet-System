@@ -1,0 +1,32 @@
+.result-table{
+  display: flex;
+  justify-content: center;
+  margin-right: 0%;
+  padding-left: 3%;
+  gap: 30px;
+  width: 20%;
+}
+
+.table-body{
+    display:flex;
+    justify-content:center;
+}
+
+.table-head{
+    border:2px solid black;
+    text-decoration: underline;
+    text-decoration: underline;
+    text-decoration-style: solid;
+    background-color: rgb(234, 232, 232);
+}
+.table-b{
+    border:2px solid black;
+}
+
+.back-button{
+  margin-top:2%;
+  margin-bottom: 0%;
+  margin-left:5%;
+ 
+  margin-bottom:0px;
+}

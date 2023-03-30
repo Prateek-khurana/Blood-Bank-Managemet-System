@@ -1,0 +1,49 @@
+.staff-data{
+
+    height:150px;
+    margin-top:2%;
+    
+    padding:1%;
+    display: flex;
+    justify-content: space-around;
+}
+
+.staff-cards{
+    margin-top:3%;
+    display:flex;
+    justify-content:space-around;
+}
+
+.card-handler-staff{
+    display: flex;
+    justify-content:center;
+    align-items: center;
+}
+
+.info-div{
+    border:2px solid black;
+    width: auto;
+    padding-top:1%;
+    display:flex;
+    
+}
+
+.image-div{
+        border: 2px solid black;
+        width: 10%;
+}
+
+.my-image{
+    height:100%;
+    width: 100%;
+}
+
+.staff-name{
+ width:60%;
+ padding-left: 3%;
+
+}
+
+.staff-reporting{
+width:40%;
+}

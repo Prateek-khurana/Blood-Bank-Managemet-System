@@ -1,0 +1,48 @@
+.header{
+    height: 300px;
+    background-color: rgb(78, 74, 74);
+}
+
+.header>h1{
+    color:whitesmoke;
+    padding-left: 7%;
+    padding-top:2%;
+}
+.cards{
+    margin-top: 5%;
+    margin-left: 2%;
+    width: 15%;
+}
+.headerImage{
+    height: inherit;
+    width: inherit;
+}
+.checkDetailsCards{
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 5%;
+}
+.registerCards{
+    height: auto;
+    margin: 2%;
+    width: 70%;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.list{
+    color: whitesmoke;
+  
+    padding-top: 2%;
+}
+
+.list>li{
+    margin-bottom: 8%;
+}
+
+.headerListContainer{
+    display: flex;
+    flex-direction: row;
+    margin-left: 10%;
+    margin-top: 2%;
+}

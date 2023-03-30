@@ -1,0 +1,25 @@
+.login-overall-donor{
+    display:flex;
+    justify-content: center;
+    align-items:center;
+    width:50%;
+    height:300px;
+    border: 2px solid black;
+    padding: auto;
+    height:350px;
+    
+}
+
+.back-button-donor-check{
+    margin-top:2%;
+  margin-bottom: 0%;
+  margin-left:5%;
+  margin-bottom:0px;
+}
+
+.parent-div-donor-details{
+  display:flex;
+  justify-content:center;
+  margin-top:0;
+  
+}
